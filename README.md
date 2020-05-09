@@ -1,8 +1,7 @@
 unicorn
 =======
 
-Written by: Dave Kennedy (@HackingDave)
-Website: https://www.trustedsec.com
+Website: https://www.easypc.ir
 
 Magic Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory. Based on Matthew Graeber's powershell attacks and the powershell bypass technique presented by David Kennedy (TrustedSec) and Josh Kelly at Defcon 18.
 
